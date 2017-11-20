@@ -10,3 +10,5 @@ Within the download you'll find the following files:
 - fresh_tomatoes.py
 - README.txt
 
+## HOW TO RUN
+To run the script, clone this repository directory and run entertainment_console.py. It should automatically open your default browser and open the new page generated. You can also view the page by opening fresh_tomatoes.html created manually.
